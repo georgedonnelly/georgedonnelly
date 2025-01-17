@@ -5,6 +5,7 @@ Building decentralized Web3 coordination tools for real-world use cases. Current
 
 ### 🛠️ Recent Projects
 - P2P trading protocol @ OpenPeer (Next.js/TS frontend, Ruby/Node backends)
+- YapBay - fully on-chain P2P remittances
 - TokenStork - market cap platform for CashTokens
 - Token airdrop tools & blockchain integrations
 
