@@ -21,6 +21,6 @@ Building decentralized Web3 coordination tools for real-world use cases. Current
 - Tech talks at blockchain meetups
 - Led teams shipping multiple dapps
 
-[visit My Website](https://GeorgeDonnelly.com) | [Visit My LinkedIn](https://www.linkedin.com/in/georgedonnelly)
+[Visit My Website](https://GeorgeDonnelly.com) | [Visit My LinkedIn](https://www.linkedin.com/in/georgedonnelly)
 
 Looking for interesting Web3 projects to work on. DM me if you're building something cool!
