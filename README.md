@@ -23,4 +23,4 @@ Building decentralized Web3 coordination tools for real-world use cases. Current
 
 [Visit My Website](https://GeorgeDonnelly.com) | [Visit My LinkedIn](https://www.linkedin.com/in/georgedonnelly)
 
-Looking for interesting Web3 projects to work on. DM me if you're building something cool!
+Looking for interesting Web3 projects to work on. DM me if you're building something cool! I am up to take on the hardest challenges.
