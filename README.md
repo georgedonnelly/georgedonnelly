@@ -8,4 +8,4 @@
 - **Infra:** Postgres, Docker, AWS, *BSD, *nix
 
 ### 💪 Cool Stuff I'm Shipping
-[LocalSolana.com](https://github.com/openpeer/localsolana) | Viib.Club |[YapBay.com](https://github.com/Panmoni/yapbay) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
+[LocalSolana.com](https://github.com/openpeer/localsolana) | [Viib.Club](https://github.com/Panmoni/viibclub) | [YapBay.com](https://github.com/Panmoni/yapbay) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
