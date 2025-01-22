@@ -18,7 +18,9 @@ Building decentralized Web3 coordination tools for real-world use cases. Current
 ### 💪 Cool Stuff I'm Shipping
 - LocalSolana.com
 - Viib.Club
+- SolanaColombia.com
 - YapBay.com
+- AidSmash.com
 - TokenStork.com
 
 [Visit My Website](https://GeorgeDonnelly.com) | [Visit My LinkedIn](https://www.linkedin.com/in/georgedonnelly)
