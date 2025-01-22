@@ -1,7 +1,7 @@
 # Hey, I'm George 👋
 ## Web3 Dev | Full Stack | DeFi
 
-Building decentralized Web3 coordination tools for real-world use cases. Currently hacking on P2P trading at OpenPeer Labs.
+Building decentralized Web3 coordination tools for real-world use cases. Currently hacking on P2P trading at LocalSolana.
 
 ### 🛠️ Recent Projects
 - P2P trading protocol @ OpenPeer (Next.js/TS frontend, Ruby/Node backends)
@@ -15,11 +15,11 @@ Building decentralized Web3 coordination tools for real-world use cases. Current
 - **Chain:** Solidity, Rust, ethers.js, Web3.js,  CashScript
 - **Infra:** Postgres, Docker, AWS
 
-### 💪 Cool Stuff I've Shipped
-- Fixed gnarly bugs in Web3 protocols
-- Built out trading features & chain integrations
-- Tech talks at blockchain meetups
-- Led teams shipping multiple dapps
+### 💪 Cool Stuff I'm Shipping
+- LocalSolana.com
+- Viib.Club
+- YapBay.com
+- TokenStork.com
 
 [Visit My Website](https://GeorgeDonnelly.com) | [Visit My LinkedIn](https://www.linkedin.com/in/georgedonnelly)
 
