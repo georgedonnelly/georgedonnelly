@@ -1,5 +1,5 @@
 # Hey, I'm George 👋
-## Full Stack Web3 Dev Looking for the Hardes Challenges in Web3
+## Full Stack Web3 Dev Hungry for Web3's Toughest Challenges
 
 ### 🔧 Stack
 - **Frontend:** Next.js, React, TypeScript, TailwindCSS
