@@ -2,9 +2,9 @@
 ## Full Stack Web3 Dev Hungry for Web3's Toughest Challenges
 
 ### 🔧 Stack
-- **Frontend:** Next.js, React, TypeScript, Solid.js, Astro.js TailwindCSS
+- **Frontend:** Next.js, React, TypeScript, Solid.js, Astro.js TailwindCSS, Vite
 - **Backend:** Node, Rails, Express
-- **Chain:** Solidity, Rust, Move, Anchor, Foundry ethers.js, Web3.js, CashScript, Go
+- **Chain:** Solidity, Rust, Anchor, Foundry, ethers.js, Web3.js, CashScript, Move, Go
 - **Infra:** Postgres, Docker/Podman, AWS, *BSD, *nix
 
 ### 💪 Cool Stuff I'm Shipping
