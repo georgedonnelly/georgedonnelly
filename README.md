@@ -1,5 +1,6 @@
 # Hey, I'm George 👋
 ![Open for work](https://img.shields.io/badge/Open%20to%20Work-Yes!-brightgreen)
+![Top Langs](https://img.shields.io/github/languages/top/georgedonnelly/georgedonnelly?color=blue)
 
 ## Full Stack Web3 Dev
 I architect and ship peer-to-peer trading protocols, remittance solutions and DeFi primitives on Ethereum, Solana and Bitcoin. I combine deep smart-contract expertise (Rust, Solidity, CashScript, Move) with modern front-end (React.js, Next.js, Solid.js, Astro) and scalable back-ends (Node.js, Ruby on Rails).
