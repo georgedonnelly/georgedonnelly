@@ -26,12 +26,12 @@ I architect and ship peer-to-peer trading protocols, remittance solutions and De
 - React.js/TypeScript front-end & Express.js back-end
 - Developed during Celo Proof of Ship
 
-### [LocalSolana](https://github.com/Panmoni/localsolana): Decentralized P2P trading for the developing world with low-fee settlement. 
+### 2. [LocalSolana](https://github.com/Panmoni/localsolana): Decentralized P2P trading for the developing world with low-fee settlement. 
 - Anchor-based Rust programs on Solana  
 - React + Vite UI & Express API  
 - Developed during Solana Eternal hackathon
 
-### [AdStream](https://www.adstream.gg): Turn rideshare tablets into fraud-free, hyper-local ad spaces—drivers & fleets earn passive income and governance rights.  
+### 3. [AdStream](https://www.adstream.gg): Turn rideshare tablets into fraud-free, hyper-local ad spaces—drivers & fleets earn passive income and governance rights.  
 - React/TypeScript PWA (face-detection, offline sync, GPS proof)  
 - Node.js/Express API & PostgreSQL for campaign + impression tracking  
 - Solana Web3.js escrow & on-chain payout management
