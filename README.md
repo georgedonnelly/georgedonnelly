@@ -23,33 +23,29 @@ I architect and ship peer-to-peer trading protocols, remittance solutions and De
 
 ## 🚀 Featured Projects
 
-### YapBay  
+### 1. [YapBay](https://github.com/Panmoni/yapbay)  
 **Why?** Bring border-agnostic, fiat-to-fiat crypto remittances to emerging markets.  
-🔗 https://github.com/Panmoni/yapbay  
 - Solidity escrow contracts (sequential trades + dispute resolution)  
 - Next.js/TypeScript front-end & Node.js back-end
+- Developed during Celo Proof of Ship
 
-### LocalSolana  
-**Why?** Decentralized P2P trading for Latin America with low-fee settlement.  
-🔗 https://github.com/Panmoni/localsolana  
+### [LocalSolana](https://github.com/Panmoni/localsolana)
+**Why?** Decentralized P2P trading for Latin America with low-fee settlement.   
 - Anchor-based Rust programs on Solana  
 - React + Next.js UI & Express API  
-- Integrated escrow + account-model security  
+- Integrated escrow + account-model security
+- Developed during Solana Eternal hackathon
 
-### AdStream  
+### [AdStream](https://www.adstream.gg)
 **Why?** Turn rideshare tablets into fraud-free, hyper-local ad spaces—drivers & fleets earn passive income and governance rights.  
-🔗 https://www.adstream.gg
 - React/TypeScript PWA (face-detection, offline sync, GPS proof)  
 - Node.js/Express API & PostgreSQL for campaign + impression tracking  
 - Solana Web3.js escrow & on-chain payout management
+- Developed during Solana Breakout Hackathon 2025
 
 ### Other Projects
 
 [Viib.Club](https://github.com/Panmoni/viibclub) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
 
 ## 📫 Let’s Connect
-
-📧 me@georgedonnelly.com
 🔗 [t.me/georgedonnelly](https://t.me/georgedonnelly)
-
-I’m actively looking for senior engineering roles in Web3/crypto. Let’s build the decentralized future together!
