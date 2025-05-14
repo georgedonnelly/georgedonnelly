@@ -16,7 +16,7 @@ I architect and ship peer-to-peer trading protocols, remittance solutions and ot
   • Node.js, Express, Prisma, Ruby on Rails
 - **DevOps & Infra**  
   • Docker / Podman, Kubernetes  
-  • Postgres, MySQL
+  • Postgres, MySQL  
   • AWS, Cloudflare, Vercel, Supabase
 
 ## 🚀 Featured Projects
