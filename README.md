@@ -24,18 +24,19 @@ I architect and ship peer-to-peer trading protocols, remittance solutions and ot
 ### 1. [YapBay](https://github.com/Panmoni/yapbay): Bring border-agnostic, fiat-to-fiat crypto remittances to emerging markets. 
 - Solidity escrow contracts (sequential trades + dispute resolution)  
 - React.js/TypeScript front-end & Express.js back-end
-- Developed during Celo Proof of Ship
+- Developed during [Celo Proof of Ship Season 3](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
 
 ### 2. [LocalSolana](https://github.com/Panmoni/localsolana): Decentralized P2P trading for the developing world with low-fee settlement. 
 - Anchor-based Rust programs on Solana  
 - React + Vite UI & Express API  
-- Developed during Solana Eternal hackathon
+- Developed during Solana Eternal Hackathon
+- Honorable Mention [Solana Radar Hackathon 2024](https://arena.colosseum.org/projects/explore/localsolana)
 
 ### 3. [AdStream](https://www.adstream.gg): Turn rideshare tablets into fraud-free, hyper-local ad spaces—drivers & fleets earn passive income and governance rights.  
 - React/TypeScript PWA (face-detection, offline sync, GPS proof)  
 - Node.js/Express API & PostgreSQL for campaign + impression tracking  
 - Solana Web3.js escrow & on-chain payout management
-- Developed during Solana Breakout Hackathon 2025
+- Developed during [Solana Breakout Hackathon 2025](https://arena.colosseum.org/projects/explore/adstream)
 
 ### Other Projects
 
