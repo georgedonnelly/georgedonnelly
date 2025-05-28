@@ -2,7 +2,7 @@
 ![Open for work](https://img.shields.io/badge/Open%20to%20Work-Yes!-brightgreen)
 
 ## Full Stack, Multi-VM Web3 Dev Crafting Real-World Dapps to Empower Real People
-I architect and ship peer-to-peer trading protocols, remittance solutions and other real-world-use dapps on Ethereum, Solana and Bitcoin. I combine deep smart-contract expertise (Rust, Solidity, CashScript, Move) with modern front-end (React.js, Next.js, Solid.js, Astro) and scalable back-ends (Node.js, Ruby on Rails).
+I bring startup energy to whatever you are building. I combine deep smart-contract expertise (Rust, Solidity, CashScript, Move) with modern front-end (React.js, Next.js, Solid.js, Astro) and scalable back-ends (Node.js, Ruby on Rails).
 
 ## 🛠️ What I Do
 - **Smart Contracts & Blockchain Infra**  
