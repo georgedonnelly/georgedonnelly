@@ -24,7 +24,7 @@ I bring startup energy to whatever you are building. I combine deep smart-contra
 ### 1. [YapBay](https://github.com/Panmoni/yapbay): Bring border-agnostic, fiat-to-fiat crypto remittances to emerging markets. 
 - Solidity escrow contracts (sequential trades + dispute resolution)  
 - React.js/TypeScript front-end & Express.js back-end
-- Developed during [Celo Proof of Ship Season 3](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
+- Developed during [Celo Proof of Ship Season 3](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)-5
 
 ### 2. [LocalSolana](https://github.com/Panmoni/localsolana): Decentralized P2P trading for the developing world with low-fee settlement. 
 - Anchor-based Rust programs on Solana  
