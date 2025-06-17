@@ -32,12 +32,6 @@ I've got a lot more than this but this is the stack I've been using lately. Alwa
 - Developed during [Celo Proof of Ship Seasons 3-4](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
 - Developed during Solana Eternal Hackathon 2025.
 
-### 3. [MXNLink](https://github.com/Panmoni/mxnlink): Chat-based remittances using the MXNB stablecoin on Arbitrum 
-- MPC wallets using [Portal](https://PortalHQ.io/)
-- Leveraging Bitso and Juno APIs
-- Telegram bot & Express API
-- Developing during the [Arbitrum-Juno-Bitso MXNB Hackathon 2025](https://eventornado.com/event/mxnbhackathon)
-
 ### Other Projects
 
 [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
