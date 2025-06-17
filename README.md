@@ -1,46 +1,46 @@
 # Hey, I'm George 👋
-![Open for work](https://img.shields.io/badge/Open%20to%20Work-Yes!-brightgreen)
 
-## Full Stack, Multi-VM Web3 Dev Crafting Real-World Dapps to Empower Real People
-I bring startup energy to whatever you are building. I combine deep smart-contract expertise (Rust, Solidity, CashScript, Move) with modern front-end (React.js, Next.js, Solid.js, Astro) and scalable back-ends (Node.js, Ruby on Rails).
+## Full Stack Web3 Dev Crafting Real-World Crypto Products
+I bring startup energy and senior wisdom to whatever you are building. I combine deep smart-contract expertise with modern front-end and scalable back-ends. I'm also a mountain hiker and a Shiba Inu dad.
 
-## 🛠️ What I Do
-- **Smart Contracts & Blockchain Infra**  
-  • Rust + Anchor / Solana, Move
-  • Solidity / EVM (Foundry, Hardhat)  
-  • CashScript + Bitcoin Script / UTXO  
-- **Web & Mobile Front-Ends**  
-  • Next.js, React, Solid.js, Astro  
-  • TypeScript, TailwindCSS, ShadCN, Radix  
-- **Back-Ends & APIs**  
-  • Node.js, Express, Prisma, Ruby on Rails
-- **DevOps & Infra**  
-  • Docker / Podman, Kubernetes  
-  • Postgres, MySQL  
-  • AWS, Cloudflare, Vercel, Supabase
+## Recognition
+- Received Interview, Solana Breakout Hackathon 2025 (AdStream)
+- Winner, Celo Proof of Ship Season 4 2025  (YapBay)
+- Winner, Celo Proof of Ship Season 3 2025  (YapBay)
+- Completed Solana Eternal Hackathon 2025 (LocalSolana v2)
+- Honorable Mention, Solana Radar Hackathon 2024 (LocalSolana v1)
+
+## 🛠️ Tech Stack  
+🦀 **Blockchain**: Rust (Solana), Solidity (EVM), Move, CashScript  
+🖥️ **Frontend**: TypeScript, React, Next.js, Solid.js, Astro.js, Tailwind, ShadCN  
+⚙️ **Backend**: Node.js, Express, Ruby on Rails, Prisma, PostgreSQL  
+📦 **DevOps**: Docker, Podman, Kubernetes, AWS, Cloudflare, Vercel, Supabase  
+
+I've got a lot more than this but this is the stack I've been using lately. Always open to learning new tools.
 
 ## 🚀 Featured Projects
 
-### 1. [YapBay](https://github.com/Panmoni/yapbay): Bring border-agnostic, fiat-to-fiat crypto remittances to emerging markets. 
-- Solidity escrow contracts (sequential trades + dispute resolution)  
-- React.js/TypeScript front-end & Express.js back-end
-- Developed during [Celo Proof of Ship Seasons 3-5](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
-
-### 2. [LocalSolana](https://github.com/Panmoni/localsolana): Decentralized P2P trading for the developing world with low-fee settlement. 
-- Anchor-based Rust programs on Solana  
-- React + Vite UI & Express API  
-- Developed during Solana Eternal Hackathon
-- Honorable Mention [Solana Radar Hackathon 2024](https://arena.colosseum.org/projects/explore/localsolana)
-
-### 3. [AdStream](https://www.adstream.gg): Turn rideshare tablets into fraud-free, hyper-local ad spaces—drivers & fleets earn passive income and governance rights.  
+### 1. [AdStream](https://www.adstream.gg): Programmatic DOOH rideshare ads with stablecoin payments for Uber drivers.  
 - React/TypeScript PWA (face-detection, offline sync, GPS proof)  
 - Node.js/Express API & PostgreSQL for campaign + impression tracking  
 - Solana Web3.js escrow & on-chain payout management
 - Developed during [Solana Breakout Hackathon 2025](https://arena.colosseum.org/projects/explore/adstream)
 
+### 2. [YapBay](https://github.com/Panmoni/yapbay): Fiat-in, fiat-out, P2P stablecoin remittances for emerging markets. 
+- Solidity + Rust escrow contracts (sequential trades + dispute resolution)  
+- React.js/TypeScript front-end & Express.js back-end
+- Developed during [Celo Proof of Ship Seasons 3-4](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
+- Developed during Solana Eternal Hackathon 2025.
+
+### 3. [MXNLink](https://github.com/Panmoni/mxnlink): Chat-based remittances using the MXNB stablecoin on Arbitrum 
+- MPC wallets using [Portal](https://PortalHQ.io/)
+- Leveraging Bitso and Juno APIs
+- Telegram bot & Express API
+- Developing during the [Arbitrum-Juno-Bitso MXNB Hackathon 2025](https://eventornado.com/event/mxnbhackathon)
+
 ### Other Projects
 
-[Viib.Club](https://github.com/Panmoni/viibclub) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
+[SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
 
 ## 📫 Let’s Connect
-🔗 [t.me/georgedonnelly](https://t.me/georgedonnelly)
+🔗 [Telegram: @georgedonnelly](https://t.me/georgedonnelly) | [LinkedIn: @georgedonnelly](https://www.linkedin.com/in/georgedonnelly/) | +13058104404
