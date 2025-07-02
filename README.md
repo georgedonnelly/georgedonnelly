@@ -4,7 +4,7 @@
 I bring startup energy and senior wisdom to whatever you are building. I combine deep smart-contract expertise with modern front-end and scalable back-ends. I'm also a mountain hiker and a Shiba Inu dad.
 
 ## Recognition
-- Received Interview, Solana Breakout Hackathon 2025 (AdStream)
+- Honorable Mention, Solana Breakout Hackathon 2025 (AdStream)
 - Winner, Celo Proof of Ship Season 4 2025  (YapBay)
 - Winner, Celo Proof of Ship Season 3 2025  (YapBay)
 - Completed Solana Eternal Hackathon 2025 (LocalSolana v2)
