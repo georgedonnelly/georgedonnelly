@@ -20,13 +20,7 @@ I've got a lot more than this but this is the stack I've been using lately. Alwa
 
 ## 🚀 Featured Projects
 
-### 1. [AdStream](https://www.adstream.gg): Programmatic DOOH rideshare ads with stablecoin payments for Uber drivers.  
-- React/TypeScript PWA (face-detection, offline sync, GPS proof)  
-- Node.js/Express API & PostgreSQL for campaign + impression tracking  
-- Solana Web3.js escrow & on-chain payout management
-- Developed during [Solana Breakout Hackathon 2025](https://arena.colosseum.org/projects/explore/adstream)
-
-### 2. [YapBay](https://github.com/Panmoni/yapbay): Fiat-in, fiat-out, P2P stablecoin remittances for emerging markets. 
+### 1. [YapBay](https://github.com/Panmoni/yapbay): Fiat-in, fiat-out, P2P stablecoin remittances for emerging markets. 
 - Solidity + Rust escrow contracts (sequential trades + dispute resolution)  
 - React.js/TypeScript front-end & Express.js back-end
 - Developed during [Celo Proof of Ship Seasons 3-4](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
@@ -34,7 +28,7 @@ I've got a lot more than this but this is the stack I've been using lately. Alwa
 
 ### Other Projects
 
-[SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
+[AdStream](https://www.adstream.gg) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
 
 ## 📫 Let’s Connect
 🔗 [Telegram: @georgedonnelly](https://t.me/georgedonnelly) | [LinkedIn: @georgedonnelly](https://www.linkedin.com/in/georgedonnelly/) | +13058104404
