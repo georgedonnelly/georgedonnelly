@@ -13,7 +13,7 @@ I bring startup energy and senior wisdom to whatever you are building. I combine
 ## 🛠️ Tech Stack  
 🦀 **Blockchain**: Rust (Solana), Solidity (EVM), Move, CashScript  
 🖥️ **Frontend**: TypeScript, React, Next.js, Solid.js, Astro.js, Tailwind, ShadCN  
-⚙️ **Backend**: Node.js, Express, Ruby on Rails, Prisma, PostgreSQL  
+⚙️ **Backend**: Node.js, Express, Ruby on Rails, Prisma, PostgreSQL, MariaDB  
 📦 **DevOps**: Docker, Podman, Kubernetes, AWS, Cloudflare, Vercel, Supabase  
 
 I've got a lot more than this but this is the stack I've been using lately. Always open to learning new tools.
