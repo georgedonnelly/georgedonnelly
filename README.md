@@ -28,7 +28,7 @@ I've got a lot more than this but this is the stack I've been using lately. Alwa
 
 ### Other Projects
 
-[AdStream](https://www.adstream.gg) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
+[AdStream](https://x.com/UseAdstream) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v2](https://github.com/Panmoni/localsolana) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
 
 ## 📫 Let’s Connect
 🔗 [Telegram: @georgedonnelly](https://t.me/georgedonnelly) | [LinkedIn: @georgedonnelly](https://www.linkedin.com/in/georgedonnelly/) | +13058104404
