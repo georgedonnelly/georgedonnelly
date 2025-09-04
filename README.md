@@ -1,7 +1,7 @@
 # Hey, I'm George 👋
 
 ## Full Stack Web3 Dev Crafting Real-World Crypto Products
-I bring startup energy and senior wisdom to whatever you are building. I combine deep smart-contract expertise with modern front-end and scalable back-ends. I'm also a mountain hiker and a Shiba Inu dad.
+I bring startup energy and senior wisdom to whatever you are building.
 
 ## Recognition
 - Honorable Mention, Solana Breakout Hackathon 2025 (AdStream)
@@ -15,8 +15,6 @@ I bring startup energy and senior wisdom to whatever you are building. I combine
 🖥️ **Frontend**: TypeScript, React, Next.js, Solid.js, Astro.js, Tailwind, ShadCN  
 ⚙️ **Backend**: Node.js, Express, Ruby on Rails, Prisma, PostgreSQL, MariaDB  
 📦 **DevOps**: Docker, Podman, Kubernetes, AWS, Cloudflare, Vercel, Supabase  
-
-I've got a lot more than this but this is the stack I've been using lately. Always open to learning new tools.
 
 ## 🚀 Featured Projects
 
