@@ -11,7 +11,6 @@ I build Web3 products that connect on-chain logic to real-world use cases—P2P 
 ### 2. [tGBP](https://www.tokenisedgbp.com/): UK's first FCA-registered GBP stablecoin platform
 
 - Full-stack development for mint/redemption flows with multi-chain Web3 wallet integration
-- React/TypeScript frontend across Ethereum, Polygon, Base, Avalanche, BSC & Solana
 - Backend API with compliance-focused database design & encryption
 
 ### Other Projects
