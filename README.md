@@ -1,28 +1,19 @@
 # Hey, I'm George 👋
 
-## Full Stack Web3 Dev Crafting Real-World Crypto Products
-I bring startup energy and senior wisdom to whatever you are building.
-
-## Recognition
-- Honorable Mention, Solana Breakout Hackathon 2025 (AdStream)
-- Winner, Celo Proof of Ship Season 4 2025  (YapBay)
-- Winner, Celo Proof of Ship Season 3 2025  (YapBay)
-- Completed Solana Eternal Hackathon 2025 (LocalSolana v2)
-- Honorable Mention, Solana Radar Hackathon 2024 (LocalSolana v1)
-
-## 🛠️ Tech Stack  
-🦀 **Blockchain**: Rust (Solana), Solidity (EVM), Move, CashScript  
-🖥️ **Frontend**: TypeScript, React, Next.js, Solid.js, Astro.js, Tailwind, ShadCN  
-⚙️ **Backend**: Node.js, Express, Ruby on Rails, Prisma, PostgreSQL, MariaDB  
-📦 **DevOps**: Docker, Podman, Kubernetes, AWS, Cloudflare, Vercel, Supabase, Cloud66
+I build Web3 products that connect on-chain logic to real-world use cases—P2P trading, stablecoins, remittances. Strong across the full stack, from Rust to React to Postgres. 2x Colosseum Honorable Mention.
 
 ## 🚀 Featured Projects
 
 ### 1. [YapBay](https://github.com/Panmoni/yapbay): Fiat-in, fiat-out, P2P stablecoin remittances for emerging markets. 
 - Solidity + Rust escrow contracts (sequential trades + dispute resolution)  
 - React.js/TypeScript front-end & Express.js back-end
-- Developed during Solana Eternal Hackathon 2025 & [Celo Proof of Ship Seasons 3-4](https://gap.karmahq.xyz/project/yapbay-p2p-stablecoin-remittances)
+
+### 2. [tGBP](https://www.tokenisedgbp.com/): UK's first FCA-registered GBP stablecoin platform
+
+- Full-stack development for mint/redemption flows with multi-chain Web3 wallet integration
+- React/TypeScript frontend across Ethereum, Polygon, Base, Avalanche, BSC & Solana
+- Backend API with compliance-focused database design & encryption
 
 ### Other Projects
 
-[tGBP](https://www.tokenisedgbp.com/) | [AdStream](https://x.com/UseAdstream) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
+[AdStream](https://x.com/UseAdstream) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [AidSmash.com](https://github.com/Panmoni/aidsmash) | [Viib.Club](https://github.com/Panmoni/viibclub) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www) | [TokenStork.com](https://github.com/Panmoni/tokenstork)
