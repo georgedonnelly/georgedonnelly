@@ -10,7 +10,7 @@ I integrate AI tools into every stage of my development workflow — from archit
 
 ### 1. **[tGBP](https://tgbp.io)** — Lead Developer
 UK's first FCA-regulated GBP stablecoin. Full-stack: mint/redemption flows, KYC/AML compliance infrastructure, cosigner API, admin dashboard, multi-chain wallet integration.
-`Rust` `TypeScript` `React` `PostgreSQL` `Docker` `AWS`
+`Rust` `TypeScript` `React` `SQL` `Docker` `AWS`
 
 ### 2. **[YapBay](https://yapbay.com)** — Technical Founder
 P2P stablecoin remittance dapp for emerging markets. Smart contracts in Rust (Anchor) and Solidity with escrow logic and dispute resolution.
