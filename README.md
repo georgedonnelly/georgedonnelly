@@ -2,13 +2,13 @@
 
 **Product Engineer & Technical Lead** | Rust · TypeScript · React · Solana · EVM
 
-I build Web3 and fintech products end-to-end — from Rust smart contracts to React frontends to compliant backend infrastructure. Currently leading development at [Tokenised GBP](https://tgbp.io), the UK's first FCA-regulated GBP stablecoin (top-10 non-USD stablecoin, $15M+ market cap). 2x Colosseum Honorable Mention.
+I build Web3 and fintech products end-to-end — from Rust smart contracts to React frontends to compliant backend infrastructure. Currently leading development at [Tokenised GBP](https://www.tokenisedgbp.com/), the UK's first FCA-regulated GBP stablecoin (top-10 non-USD stablecoin, $15M+ market cap). 2x Colosseum Honorable Mention.
 
 I integrate AI tools into every stage of my development workflow — from architecture planning to implementation to code review. I ship production features 2-3x faster using these tools.
 
 ## 🚀 What I Ship
 
-### 1. **[tGBP](https://tgbp.io)** — Lead Developer
+### 1. **[tGBP](https://www.tokenisedgbp.com/)** — Lead Developer
 UK's first FCA-regulated GBP stablecoin. Full-stack: mint/redemption flows, KYC/AML compliance infrastructure, cosigner API, admin dashboard, multi-chain wallet integration.
 `Rust` `TypeScript` `React` `SQL` `Docker` `AWS`
 
