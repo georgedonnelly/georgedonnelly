@@ -1,17 +1,25 @@
 # Hey, I'm George 👋
 
-I build Web3 products that connect on-chain logic to real-world use cases—P2P trading, stablecoins, remittances. Strong across the full stack, from Rust to React to Postgres. 2x Colosseum Honorable Mention.
+**Product Engineer & Technical Lead** | Rust · TypeScript · React · Solana · EVM
 
-## 🚀 Featured Projects
+I build Web3 and fintech products end-to-end — from Rust smart contracts to React frontends to compliant backend infrastructure. Currently leading development at [Tokenised GBP]
+(https://tgbp.io), the UK's first FCA-regulated GBP stablecoin (top-10 non-USD stablecoin, $15M+ market cap). 2x Colosseum Honorable Mention.
 
-### 1. [YapBay](https://github.com/Panmoni/yapbay): Fiat-in, fiat-out, P2P stablecoin remittances for emerging markets. 
-- Solidity + Rust escrow contracts (sequential trades + dispute resolution)  
-- React.js/TypeScript front-end & Express.js back-end
+I integrate AI tools into every stage of my development workflow — from architecture planning to implementation to code review. I ship production features 2-3x faster using these tools.
 
-### 2. [tGBP](https://www.tokenisedgbp.com/): UK's first FCA-registered GBP stablecoin platform
+## 🚀 What I Ship
 
-- Full-stack development for mint/redemption flows with multi-chain Web3 wallet integration
-- Backend API with compliance-focused database design & encryption
+### 1. **[tGBP](https://tgbp.io)** — Lead Developer
+UK's first FCA-regulated GBP stablecoin. Full-stack: mint/redemption flows, KYC/AML compliance infrastructure, cosigner API, admin dashboard, multi-chain wallet integration.
+`Rust` `TypeScript` `React` `PostgreSQL` `Docker` `AWS`
+
+### 2. **[YapBay](https://yapbay.com)** — Technical Founder
+P2P stablecoin remittance dapp for emerging markets. Smart contracts in Rust (Anchor) and Solidity with escrow logic and dispute resolution.
+`Rust` `Solidity` `React` `TypeScript` `Express.js` `Redis`
+
+## 4. **[PushFlip](https://pushflip.xyz)** — Co-Creator
+Crypto-native push-your-luck card game on Solana with AI opponents, token-burning mechanics, and ZK-proof deck verification. Built with Pinocchio (native Solana, zero dependencies), Solana Kit and Groth16 ZK-SNARKs for provably fair shuffling via Poseidon Merkle trees.
+`Rust/Pinocchio` `Circom` `ZK-SNARKs` `@solana/kit` `React` `TypeScript` `Zustand`
 
 ### Other Projects
 
