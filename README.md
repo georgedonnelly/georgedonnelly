@@ -1,6 +1,6 @@
 # Hey, I'm George 👋
 
-**Product Engineer & Technical Lead** | Rust · TypeScript · React · Solana · EVM
+**Product Engineer & Technical Lead** | Rust · TypeScript · React · Solana · EVM · DevOps
 
 I build Web3 and fintech products end-to-end — from Rust smart contracts to React frontends to compliant backend infrastructure. Currently leading development at [Tokenised GBP](https://www.tokenisedgbp.com/), the UK's first FCA-regulated GBP stablecoin (top-10 non-USD stablecoin, $15M+ market cap). 2x Colosseum Honorable Mention.
 
