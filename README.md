@@ -19,4 +19,4 @@ Crypto-native push-your-luck card game on Solana with AI opponents, token-burnin
 
 ### Other Projects
 
-[GM Security](https://gmsecurity.net/) | [GM Build](https://gmbuild.net/) | [ggantt](https://github.com/Panmoni/ggantt) | [TokenStork.com](https://github.com/Panmoni/tokenstork) | [AdStream](https://x.com/UseAdstream) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www)
+[cryptoforvenezuela.org](https://github.com/Panmoni/cryptoforvenezuela.org) | [GM Security](https://gmsecurity.net/) | [GM Build](https://gmbuild.net/) | [ggantt](https://github.com/Panmoni/ggantt) | [TokenStork.com](https://github.com/Panmoni/tokenstork) | [AdStream](https://x.com/UseAdstream) | [SolanaColombia.com](https://github.com/Panmoni/solanacolombia-www) | [LocalSolana v1](https://github.com/openpeer/localsolana) | [BCHWorks.com](https://github.com/Panmoni/bitcoincashsite-www)
